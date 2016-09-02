@@ -1,0 +1,7 @@
+-------------------- SISTEMA DE AGENDAMENTO DE LABORATÓRIOS DO IFNMG - CAMPUS JANUÁRIA --------------------
+
+Disciplina: Desenvolvimento de Sistemas Corporativos
+Profº: Petrônio Cândido
+Acadêmicos: João Pedro Viana, Thiago Santos Lima
+
+-------------------- MiniMundo --------------------
